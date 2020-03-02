@@ -1,0 +1,35 @@
+.range-top-20 {
+    margin-top: 20px;
+}
+.range-top-10{
+    margin-top: 10px;
+}
+.color-red{
+    color: red;
+}
+.hv-bgr:hover {
+    background-color:#efefef;
+
+}
+.name-course {
+    border-color: #007bff;
+    width: 70%;
+    background-color:#007bff
+}
+.font-cs{
+    margin-top: 20px;
+    color: #1b1e21;
+    font-size: 14px;
+    line-height: 2;
+    font-weight: 400;
+}
+.margin-bottom-top {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.errorr{
+    color: red;
+}
+.error{
+    color: red;
+}
